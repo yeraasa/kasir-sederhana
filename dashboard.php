@@ -42,7 +42,7 @@
             <li>
                 <a href="credits.php">
                     <i class="fa-solid fa-wrench"></i>
-                    <span>Contribute</span>
+                    <span>Barang</span>
                 </a>
             </li>
                 <li class="logout">
